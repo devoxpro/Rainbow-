@@ -9,12 +9,12 @@
     "facebook_banner": "IMG_16_9_APP_INSTALL#173186393601951_299214384332484",
     "facebook_inter": "IMG_16_9_APP_INSTALL#173186393601951_288058788781377",
 	"facebook_native": "IMG_16_9_APP_INSTALL#173186393601951_356298065290782",
-    "unityGameID": "3883855",
+    "unityGameID": "",
     "unityBanner": "banner",
     "unityInter": "video",
-    "max_banner": "6db1491f2e21970c",
-    "max_inter": "812b82d9e0c7cb7f",
-	"max_reward": "477fa5ae11bc025f",
+    "max_banner": "",
+    "max_inter": "",
+	"max_reward": "",
     "more_btn": "More",
     "more_btn_link": "https://www.google.com"
 }
