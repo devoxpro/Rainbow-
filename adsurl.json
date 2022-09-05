@@ -1,5 +1,5 @@
 {
-    "show_ads": false,
+    "show_ads": true,
     "bannerAd": ["admob", "max", "facebook"],
     "InterAd": ["admob", "max", "facebook"],
 	"nativeAd": ["admob", "admob", "facebook"],
