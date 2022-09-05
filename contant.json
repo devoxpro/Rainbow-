@@ -16,29 +16,34 @@
 	"button_url" : ""
   },
   {
-    "UrlTitel": "The Nextbots chase the nearest player",
-    "Urltexte": "The Nextbots chase the nearest player, make loud noises, and cause static to appear on the screen when approaching players, making it easy to know if one is nearby. These indicators are changeable client-side in the game's settings. There are a variety of Nextbots such as: Obunga (based on former U.S. president Barack Obama), Quandale Dingle, Yoshie, Sanic, Aheno (full name Ahenobarbus Henocied), Entity 666 (known as “Juggler”), Dream Man (also called “The Man”), Speed (the streamer IShowSpeed), Patrick, Cootie, unknown (based on Mr Incredible Phase 22 by FreakyHell Studios), Sponge, Roblox, Claude (also called “Crab”) and Nerd. The Sanic Nextbot is able to move faster than the others, and all Nextbots are able to break doors down, even doors to the safe rooms even though they can't enter them.",
-	  
+    "UrlTitel": "How to Win and General Tips",
+    "Urltexte": "You can play Rainbow Friends by using this link to head over to the official Roblox page. All you need to do then is hit play and ready your nerves for the horrors ahead. ",
+	  "button_title" : "",
+	  "button_url" : ""
+ },
+  {
+    "UrlTitel": "How do I play Rainbow Friends? ",
+    "Urltexte": "Maintain a low, sneaky posture throughout the game and use the monsters' weaknesses against them.Do not be afraid to run around the map to find all of the required things.Since all of the items you need to collect are randomly spread across the map, you need to work with your team to locate and collect them.Remember that you can carry multiple items, so make sure to pick up whatever you find.Also, use your box well since it can help you avoid the Blue and Orange monsters.",
 	  "button_title" : "",
 	"button_url" : ""
  
   },
   {
-    "UrlTitel": "costumes and equip accessories ",
-    "Urltexte": "Aside from the basic character customisation, other cosmetic changes are also a part of the game and you can dress up in various costumes and equip accessories as well. The game also has a day and night cycle along with rules you need to follow in the town, public transport and a bunch of easter eggs. One of the issues which most players have with the game is the fact that things like clothes are really overpriced and you really need to grind to obtain them. Considering the game is free it does somewhat justify the high costs but it would be better if items werenâ€™t so hard to get.",
-	"button_title" : "",
+    "UrlTitel": "How To Win Roblox Rainbow Friends Fast ",
+    "Urltexte": "Maintain a low, sneaky posture throughout the game and use the monsters' weaknesses against them.Do not be afraid to run around the map to find all of the required things.Since all of the items you need to collect are randomly spread across the map, you need to work with your team to locate and collect them.Remember that you can carry multiple items, so make sure to pick up whatever you find.Also, use your box well since it can help you avoid the Blue and Orange monsters.",
+	  "button_title" : "",
 	"button_url" : ""
   },
 {
-     "UrlTitel": "Colorful vibrant graphics and quick easy controls",
-    "Urltexte": "The graphics arenâ€™t anything special but are quite colorful. Because of the overall look and graphical theme of the game, the vibrant graphics look great. The sound effects do get a little annoying sometimes but the in-game music is not too bad. Overall the graphics and audio wonâ€™t give you too many issues.The controls are pretty easy to get used to. You can move around, look around and jump. The camera angle is above the shoulder and the UI is also pretty easy to understand. Once you get the hang of the options and the interface, the game would get quite easy. At the start, things can be a bit confusing but youâ€™ll get used to it.",
+     "UrlTitel": "Blue Rainbow Friend",
+    "Urltexte": "Blue is the most threatening of all the Rainbow Friends as they’re always patrolling the area looking for lost children. The only way to avoid Blue is by hiding in a box or a locker. ",
 	"button_title" : "",
 	"button_url" : ""
     
 },
 {
-     "UrlTitel": "In-App purchases do ease your journey but are not necessary",
-    "Urltexte": "While you can play through the entire game for free, a bunch of In-App Purchases does exist. By watching ads, you can increase your resources while the In-App Purchases can make the game pretty easy for you since items cost a lot and you can buy in-game currency with real money.The game does have a few bugs and visual glitches but it is kind of expected from a game with so many different features and so much to do. Some of the races and minigames have bugs that place you at a disadvantage.",
+     "UrlTitel": "Orange Rainbow Friend",
+    "Urltexte": "You need to consistently feed Orange to keep them from coming out to play, but be sure not to feed them twice or they’ll soon emerge. Fortunately, an orange line appears to show where Orange will walk when patrolling, so you can quickly hide if you see that they’re coming around soon. ",
 	"button_title" : "",
 	"button_url" : ""
     
